@@ -1,5 +1,5 @@
 # 2013 Boston University QuantitativeImmunology
-I earned a scholarship to attend the 2013 Summer School on Quantitative Systems Immunology, Boston University. All data will be uploaded here
+I earned a scholarship to attend the 2013 Summer School on Quantitative Systems Immunology, Boston University. All data will be uploaded here. Adapted from (https://www.bu.edu/computationalimmunology/summer-schools-and-symposia/summer-school/)
 
 # About:
 This educational program, held at BU (10-14 June 2013), was intended for trainees in the biological sciences who wanted to explore the use of mathematics, statistics, and computation in their own research but may not have experience in the quantitative sciences. In total, out of the 92 received applications, 52 were accepted, and 26 scholarships were awarded, which covered travel and housing costs.
