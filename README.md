@@ -26,16 +26,16 @@ William Longabaugh, Institute for Systems Biology
 # Software Utilized:
 Below is a list of software that was used for the afternoon Workshops (Web-based software is not listed.)
 
-R
-Bioconductor (just the core biocLite)
-Cytoscape
-BioTapestry
-Dizzy
-RStudio
-Multiexperiment viewer
-Medusa Network viewer
-Ontofox software
-LOLA Setup
+1. R
+2. Bioconductor (just the core biocLite)
+3. Cytoscape
+4. BioTapestry
+5. Dizzy
+6. RStudio
+7. Multiexperiment viewer
+8. Medusa Network viewer
+9. Ontofox software
+10. LOLA Setup
 
 
 # Funding:
